@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## CRUD EM FLK
+=======
+## CRUD EM FLASK
+>>>>>>> ee07e865fb65e0fc32eb3cd629b0beea1b4674e9
 
 Experiência com um crud usando flask e suas ferramentas
 
