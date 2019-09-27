@@ -1,4 +1,4 @@
-## CRUD EM FLESK
+## CRUD EM FLASK
 
 Experiência com um crud usando flask e suas ferramentas
 
